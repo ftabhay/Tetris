@@ -26,7 +26,7 @@ A fully responsive, modern twist on the classic **Tetris** game built using **Re
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/your-username/tetris-game.git
+git clone https://github.com/ftabhay/tetris-game.git
 cd tetris-game
 npm install
 npm start
